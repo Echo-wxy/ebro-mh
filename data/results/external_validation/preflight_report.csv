@@ -1,0 +1,4 @@
+check,status,detail
+model_dependencies,PASS,LR/RF/XGBoost/RuleFit/BRL/EBM/EBRO imports
+calibration_schema,PASS,"['bin', 'n', 'mean_pred', 'observed']"
+knhanes_external_build,PASS,"n=1078, positive=302"

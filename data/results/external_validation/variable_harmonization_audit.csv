@@ -1,0 +1,12 @@
+predictor,US_NHANES_available,KNHANES_available,US_missing_n,KNHANES_missing_n
+age,True,True,0,0
+sex,True,True,0,0
+diabetes_duration,True,True,156,4
+bmi,True,True,28,16
+sbp,True,True,118,8
+dbp,True,True,118,8
+hba1c,True,True,0,0
+total_cholesterol,True,True,0,0
+hdl,True,True,1,0
+triglycerides,True,True,0,0
+uric_acid,True,True,0,1

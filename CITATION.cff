@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata from this file."
+title: "ebro-mh"
+type: software
+authors:
+  - name: "The ebro-mh Authors"
+version: 0.1.0
+date-released: 2026-09-17
+license: MIT

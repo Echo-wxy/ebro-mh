@@ -1,0 +1,201 @@
+dataset,variant,repeat,fold,status,message
+nhanes_dm,Quantile clinical,0,1,succeeded,
+nhanes_dm,Outcome-blind random,0,1,succeeded,
+nhanes_dm,Reviewed Qwen only,0,1,skipped,no reviewed Qwen rule JSON was supplied
+nhanes_dm,Reviewed Qwen plus quantile,0,1,skipped,no reviewed Qwen rule JSON was supplied
+nhanes_dm,Quantile clinical,0,2,succeeded,
+nhanes_dm,Outcome-blind random,0,2,succeeded,
+nhanes_dm,Reviewed Qwen only,0,2,skipped,no reviewed Qwen rule JSON was supplied
+nhanes_dm,Reviewed Qwen plus quantile,0,2,skipped,no reviewed Qwen rule JSON was supplied
+nhanes_dm,Quantile clinical,0,3,succeeded,
+nhanes_dm,Outcome-blind random,0,3,succeeded,
+nhanes_dm,Reviewed Qwen only,0,3,skipped,no reviewed Qwen rule JSON was supplied
+nhanes_dm,Reviewed Qwen plus quantile,0,3,skipped,no reviewed Qwen rule JSON was supplied
+nhanes_dm,Quantile clinical,0,4,succeeded,
+nhanes_dm,Outcome-blind random,0,4,succeeded,
+nhanes_dm,Reviewed Qwen only,0,4,skipped,no reviewed Qwen rule JSON was supplied
+nhanes_dm,Reviewed Qwen plus quantile,0,4,skipped,no reviewed Qwen rule JSON was supplied
+nhanes_dm,Quantile clinical,0,5,succeeded,
+nhanes_dm,Outcome-blind random,0,5,succeeded,
+nhanes_dm,Reviewed Qwen only,0,5,skipped,no reviewed Qwen rule JSON was supplied
+nhanes_dm,Reviewed Qwen plus quantile,0,5,skipped,no reviewed Qwen rule JSON was supplied
+nhanes_dm,Quantile clinical,1,1,succeeded,
+nhanes_dm,Outcome-blind random,1,1,succeeded,
+nhanes_dm,Reviewed Qwen only,1,1,skipped,no reviewed Qwen rule JSON was supplied
+nhanes_dm,Reviewed Qwen plus quantile,1,1,skipped,no reviewed Qwen rule JSON was supplied
+nhanes_dm,Quantile clinical,1,2,succeeded,
+nhanes_dm,Outcome-blind random,1,2,succeeded,
+nhanes_dm,Reviewed Qwen only,1,2,skipped,no reviewed Qwen rule JSON was supplied
+nhanes_dm,Reviewed Qwen plus quantile,1,2,skipped,no reviewed Qwen rule JSON was supplied
+nhanes_dm,Quantile clinical,1,3,succeeded,
+nhanes_dm,Outcome-blind random,1,3,succeeded,
+nhanes_dm,Reviewed Qwen only,1,3,skipped,no reviewed Qwen rule JSON was supplied
+nhanes_dm,Reviewed Qwen plus quantile,1,3,skipped,no reviewed Qwen rule JSON was supplied
+nhanes_dm,Quantile clinical,1,4,succeeded,
+nhanes_dm,Outcome-blind random,1,4,succeeded,
+nhanes_dm,Reviewed Qwen only,1,4,skipped,no reviewed Qwen rule JSON was supplied
+nhanes_dm,Reviewed Qwen plus quantile,1,4,skipped,no reviewed Qwen rule JSON was supplied
+nhanes_dm,Quantile clinical,1,5,succeeded,
+nhanes_dm,Outcome-blind random,1,5,succeeded,
+nhanes_dm,Reviewed Qwen only,1,5,skipped,no reviewed Qwen rule JSON was supplied
+nhanes_dm,Reviewed Qwen plus quantile,1,5,skipped,no reviewed Qwen rule JSON was supplied
+nhanes_dm,Quantile clinical,2,1,succeeded,
+nhanes_dm,Outcome-blind random,2,1,succeeded,
+nhanes_dm,Reviewed Qwen only,2,1,skipped,no reviewed Qwen rule JSON was supplied
+nhanes_dm,Reviewed Qwen plus quantile,2,1,skipped,no reviewed Qwen rule JSON was supplied
+nhanes_dm,Quantile clinical,2,2,succeeded,
+nhanes_dm,Outcome-blind random,2,2,succeeded,
+nhanes_dm,Reviewed Qwen only,2,2,skipped,no reviewed Qwen rule JSON was supplied
+nhanes_dm,Reviewed Qwen plus quantile,2,2,skipped,no reviewed Qwen rule JSON was supplied
+nhanes_dm,Quantile clinical,2,3,succeeded,
+nhanes_dm,Outcome-blind random,2,3,succeeded,
+nhanes_dm,Reviewed Qwen only,2,3,skipped,no reviewed Qwen rule JSON was supplied
+nhanes_dm,Reviewed Qwen plus quantile,2,3,skipped,no reviewed Qwen rule JSON was supplied
+nhanes_dm,Quantile clinical,2,4,succeeded,
+nhanes_dm,Outcome-blind random,2,4,succeeded,
+nhanes_dm,Reviewed Qwen only,2,4,skipped,no reviewed Qwen rule JSON was supplied
+nhanes_dm,Reviewed Qwen plus quantile,2,4,skipped,no reviewed Qwen rule JSON was supplied
+nhanes_dm,Quantile clinical,2,5,succeeded,
+nhanes_dm,Outcome-blind random,2,5,succeeded,
+nhanes_dm,Reviewed Qwen only,2,5,skipped,no reviewed Qwen rule JSON was supplied
+nhanes_dm,Reviewed Qwen plus quantile,2,5,skipped,no reviewed Qwen rule JSON was supplied
+nhanes_dm,Quantile clinical,3,1,succeeded,
+nhanes_dm,Outcome-blind random,3,1,succeeded,
+nhanes_dm,Reviewed Qwen only,3,1,skipped,no reviewed Qwen rule JSON was supplied
+nhanes_dm,Reviewed Qwen plus quantile,3,1,skipped,no reviewed Qwen rule JSON was supplied
+nhanes_dm,Quantile clinical,3,2,succeeded,
+nhanes_dm,Outcome-blind random,3,2,succeeded,
+nhanes_dm,Reviewed Qwen only,3,2,skipped,no reviewed Qwen rule JSON was supplied
+nhanes_dm,Reviewed Qwen plus quantile,3,2,skipped,no reviewed Qwen rule JSON was supplied
+nhanes_dm,Quantile clinical,3,3,succeeded,
+nhanes_dm,Outcome-blind random,3,3,succeeded,
+nhanes_dm,Reviewed Qwen only,3,3,skipped,no reviewed Qwen rule JSON was supplied
+nhanes_dm,Reviewed Qwen plus quantile,3,3,skipped,no reviewed Qwen rule JSON was supplied
+nhanes_dm,Quantile clinical,3,4,succeeded,
+nhanes_dm,Outcome-blind random,3,4,succeeded,
+nhanes_dm,Reviewed Qwen only,3,4,skipped,no reviewed Qwen rule JSON was supplied
+nhanes_dm,Reviewed Qwen plus quantile,3,4,skipped,no reviewed Qwen rule JSON was supplied
+nhanes_dm,Quantile clinical,3,5,succeeded,
+nhanes_dm,Outcome-blind random,3,5,succeeded,
+nhanes_dm,Reviewed Qwen only,3,5,skipped,no reviewed Qwen rule JSON was supplied
+nhanes_dm,Reviewed Qwen plus quantile,3,5,skipped,no reviewed Qwen rule JSON was supplied
+nhanes_dm,Quantile clinical,4,1,succeeded,
+nhanes_dm,Outcome-blind random,4,1,succeeded,
+nhanes_dm,Reviewed Qwen only,4,1,skipped,no reviewed Qwen rule JSON was supplied
+nhanes_dm,Reviewed Qwen plus quantile,4,1,skipped,no reviewed Qwen rule JSON was supplied
+nhanes_dm,Quantile clinical,4,2,succeeded,
+nhanes_dm,Outcome-blind random,4,2,succeeded,
+nhanes_dm,Reviewed Qwen only,4,2,skipped,no reviewed Qwen rule JSON was supplied
+nhanes_dm,Reviewed Qwen plus quantile,4,2,skipped,no reviewed Qwen rule JSON was supplied
+nhanes_dm,Quantile clinical,4,3,succeeded,
+nhanes_dm,Outcome-blind random,4,3,succeeded,
+nhanes_dm,Reviewed Qwen only,4,3,skipped,no reviewed Qwen rule JSON was supplied
+nhanes_dm,Reviewed Qwen plus quantile,4,3,skipped,no reviewed Qwen rule JSON was supplied
+nhanes_dm,Quantile clinical,4,4,succeeded,
+nhanes_dm,Outcome-blind random,4,4,succeeded,
+nhanes_dm,Reviewed Qwen only,4,4,skipped,no reviewed Qwen rule JSON was supplied
+nhanes_dm,Reviewed Qwen plus quantile,4,4,skipped,no reviewed Qwen rule JSON was supplied
+nhanes_dm,Quantile clinical,4,5,succeeded,
+nhanes_dm,Outcome-blind random,4,5,succeeded,
+nhanes_dm,Reviewed Qwen only,4,5,skipped,no reviewed Qwen rule JSON was supplied
+nhanes_dm,Reviewed Qwen plus quantile,4,5,skipped,no reviewed Qwen rule JSON was supplied
+nhanes_dm,Quantile clinical,5,1,succeeded,
+nhanes_dm,Outcome-blind random,5,1,succeeded,
+nhanes_dm,Reviewed Qwen only,5,1,skipped,no reviewed Qwen rule JSON was supplied
+nhanes_dm,Reviewed Qwen plus quantile,5,1,skipped,no reviewed Qwen rule JSON was supplied
+nhanes_dm,Quantile clinical,5,2,succeeded,
+nhanes_dm,Outcome-blind random,5,2,succeeded,
+nhanes_dm,Reviewed Qwen only,5,2,skipped,no reviewed Qwen rule JSON was supplied
+nhanes_dm,Reviewed Qwen plus quantile,5,2,skipped,no reviewed Qwen rule JSON was supplied
+nhanes_dm,Quantile clinical,5,3,succeeded,
+nhanes_dm,Outcome-blind random,5,3,succeeded,
+nhanes_dm,Reviewed Qwen only,5,3,skipped,no reviewed Qwen rule JSON was supplied
+nhanes_dm,Reviewed Qwen plus quantile,5,3,skipped,no reviewed Qwen rule JSON was supplied
+nhanes_dm,Quantile clinical,5,4,succeeded,
+nhanes_dm,Outcome-blind random,5,4,succeeded,
+nhanes_dm,Reviewed Qwen only,5,4,skipped,no reviewed Qwen rule JSON was supplied
+nhanes_dm,Reviewed Qwen plus quantile,5,4,skipped,no reviewed Qwen rule JSON was supplied
+nhanes_dm,Quantile clinical,5,5,succeeded,
+nhanes_dm,Outcome-blind random,5,5,succeeded,
+nhanes_dm,Reviewed Qwen only,5,5,skipped,no reviewed Qwen rule JSON was supplied
+nhanes_dm,Reviewed Qwen plus quantile,5,5,skipped,no reviewed Qwen rule JSON was supplied
+nhanes_dm,Quantile clinical,6,1,succeeded,
+nhanes_dm,Outcome-blind random,6,1,succeeded,
+nhanes_dm,Reviewed Qwen only,6,1,skipped,no reviewed Qwen rule JSON was supplied
+nhanes_dm,Reviewed Qwen plus quantile,6,1,skipped,no reviewed Qwen rule JSON was supplied
+nhanes_dm,Quantile clinical,6,2,succeeded,
+nhanes_dm,Outcome-blind random,6,2,succeeded,
+nhanes_dm,Reviewed Qwen only,6,2,skipped,no reviewed Qwen rule JSON was supplied
+nhanes_dm,Reviewed Qwen plus quantile,6,2,skipped,no reviewed Qwen rule JSON was supplied
+nhanes_dm,Quantile clinical,6,3,succeeded,
+nhanes_dm,Outcome-blind random,6,3,succeeded,
+nhanes_dm,Reviewed Qwen only,6,3,skipped,no reviewed Qwen rule JSON was supplied
+nhanes_dm,Reviewed Qwen plus quantile,6,3,skipped,no reviewed Qwen rule JSON was supplied
+nhanes_dm,Quantile clinical,6,4,succeeded,
+nhanes_dm,Outcome-blind random,6,4,succeeded,
+nhanes_dm,Reviewed Qwen only,6,4,skipped,no reviewed Qwen rule JSON was supplied
+nhanes_dm,Reviewed Qwen plus quantile,6,4,skipped,no reviewed Qwen rule JSON was supplied
+nhanes_dm,Quantile clinical,6,5,succeeded,
+nhanes_dm,Outcome-blind random,6,5,succeeded,
+nhanes_dm,Reviewed Qwen only,6,5,skipped,no reviewed Qwen rule JSON was supplied
+nhanes_dm,Reviewed Qwen plus quantile,6,5,skipped,no reviewed Qwen rule JSON was supplied
+nhanes_dm,Quantile clinical,7,1,succeeded,
+nhanes_dm,Outcome-blind random,7,1,succeeded,
+nhanes_dm,Reviewed Qwen only,7,1,skipped,no reviewed Qwen rule JSON was supplied
+nhanes_dm,Reviewed Qwen plus quantile,7,1,skipped,no reviewed Qwen rule JSON was supplied
+nhanes_dm,Quantile clinical,7,2,succeeded,
+nhanes_dm,Outcome-blind random,7,2,succeeded,
+nhanes_dm,Reviewed Qwen only,7,2,skipped,no reviewed Qwen rule JSON was supplied
+nhanes_dm,Reviewed Qwen plus quantile,7,2,skipped,no reviewed Qwen rule JSON was supplied
+nhanes_dm,Quantile clinical,7,3,succeeded,
+nhanes_dm,Outcome-blind random,7,3,succeeded,
+nhanes_dm,Reviewed Qwen only,7,3,skipped,no reviewed Qwen rule JSON was supplied
+nhanes_dm,Reviewed Qwen plus quantile,7,3,skipped,no reviewed Qwen rule JSON was supplied
+nhanes_dm,Quantile clinical,7,4,succeeded,
+nhanes_dm,Outcome-blind random,7,4,succeeded,
+nhanes_dm,Reviewed Qwen only,7,4,skipped,no reviewed Qwen rule JSON was supplied
+nhanes_dm,Reviewed Qwen plus quantile,7,4,skipped,no reviewed Qwen rule JSON was supplied
+nhanes_dm,Quantile clinical,7,5,succeeded,
+nhanes_dm,Outcome-blind random,7,5,succeeded,
+nhanes_dm,Reviewed Qwen only,7,5,skipped,no reviewed Qwen rule JSON was supplied
+nhanes_dm,Reviewed Qwen plus quantile,7,5,skipped,no reviewed Qwen rule JSON was supplied
+nhanes_dm,Quantile clinical,8,1,succeeded,
+nhanes_dm,Outcome-blind random,8,1,succeeded,
+nhanes_dm,Reviewed Qwen only,8,1,skipped,no reviewed Qwen rule JSON was supplied
+nhanes_dm,Reviewed Qwen plus quantile,8,1,skipped,no reviewed Qwen rule JSON was supplied
+nhanes_dm,Quantile clinical,8,2,succeeded,
+nhanes_dm,Outcome-blind random,8,2,succeeded,
+nhanes_dm,Reviewed Qwen only,8,2,skipped,no reviewed Qwen rule JSON was supplied
+nhanes_dm,Reviewed Qwen plus quantile,8,2,skipped,no reviewed Qwen rule JSON was supplied
+nhanes_dm,Quantile clinical,8,3,succeeded,
+nhanes_dm,Outcome-blind random,8,3,succeeded,
+nhanes_dm,Reviewed Qwen only,8,3,skipped,no reviewed Qwen rule JSON was supplied
+nhanes_dm,Reviewed Qwen plus quantile,8,3,skipped,no reviewed Qwen rule JSON was supplied
+nhanes_dm,Quantile clinical,8,4,succeeded,
+nhanes_dm,Outcome-blind random,8,4,succeeded,
+nhanes_dm,Reviewed Qwen only,8,4,skipped,no reviewed Qwen rule JSON was supplied
+nhanes_dm,Reviewed Qwen plus quantile,8,4,skipped,no reviewed Qwen rule JSON was supplied
+nhanes_dm,Quantile clinical,8,5,succeeded,
+nhanes_dm,Outcome-blind random,8,5,succeeded,
+nhanes_dm,Reviewed Qwen only,8,5,skipped,no reviewed Qwen rule JSON was supplied
+nhanes_dm,Reviewed Qwen plus quantile,8,5,skipped,no reviewed Qwen rule JSON was supplied
+nhanes_dm,Quantile clinical,9,1,succeeded,
+nhanes_dm,Outcome-blind random,9,1,succeeded,
+nhanes_dm,Reviewed Qwen only,9,1,skipped,no reviewed Qwen rule JSON was supplied
+nhanes_dm,Reviewed Qwen plus quantile,9,1,skipped,no reviewed Qwen rule JSON was supplied
+nhanes_dm,Quantile clinical,9,2,succeeded,
+nhanes_dm,Outcome-blind random,9,2,succeeded,
+nhanes_dm,Reviewed Qwen only,9,2,skipped,no reviewed Qwen rule JSON was supplied
+nhanes_dm,Reviewed Qwen plus quantile,9,2,skipped,no reviewed Qwen rule JSON was supplied
+nhanes_dm,Quantile clinical,9,3,succeeded,
+nhanes_dm,Outcome-blind random,9,3,succeeded,
+nhanes_dm,Reviewed Qwen only,9,3,skipped,no reviewed Qwen rule JSON was supplied
+nhanes_dm,Reviewed Qwen plus quantile,9,3,skipped,no reviewed Qwen rule JSON was supplied
+nhanes_dm,Quantile clinical,9,4,succeeded,
+nhanes_dm,Outcome-blind random,9,4,succeeded,
+nhanes_dm,Reviewed Qwen only,9,4,skipped,no reviewed Qwen rule JSON was supplied
+nhanes_dm,Reviewed Qwen plus quantile,9,4,skipped,no reviewed Qwen rule JSON was supplied
+nhanes_dm,Quantile clinical,9,5,succeeded,
+nhanes_dm,Outcome-blind random,9,5,succeeded,
+nhanes_dm,Reviewed Qwen only,9,5,skipped,no reviewed Qwen rule JSON was supplied
+nhanes_dm,Reviewed Qwen plus quantile,9,5,skipped,no reviewed Qwen rule JSON was supplied

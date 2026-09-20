@@ -1,0 +1,35 @@
+dataset,experiment,value,auc
+PIDD,training_fraction,0.05,0.7162
+PIDD,training_fraction,0.1,0.6246
+PIDD,training_fraction,0.2,0.7506
+PIDD,training_fraction,0.4,0.6818
+PIDD,training_fraction,0.8,0.663
+PIDD,training_fraction,1.0,0.6733
+NHANES diabetes,training_fraction,0.05,0.6684
+NHANES diabetes,training_fraction,0.1,0.6789
+NHANES diabetes,training_fraction,0.2,0.7177
+NHANES diabetes,training_fraction,0.4,0.7193
+NHANES diabetes,training_fraction,0.8,0.6933
+NHANES diabetes,training_fraction,1.0,0.7062
+PIDD,particles,5,0.5602
+PIDD,particles,10,0.6129
+PIDD,particles,20,0.6733
+PIDD,particles,30,0.6792
+PIDD,particles,50,0.7478
+PIDD,particles,100,0.7763
+NHANES diabetes,particles,5,0.6574
+NHANES diabetes,particles,10,0.6769
+NHANES diabetes,particles,20,0.7062
+NHANES diabetes,particles,30,0.73
+NHANES diabetes,particles,50,0.7435
+NHANES diabetes,particles,100,0.7446
+PIDD,batch_size,16,0.672
+PIDD,batch_size,32,0.6739
+PIDD,batch_size,64,0.6733
+PIDD,batch_size,128,0.6733
+PIDD,batch_size,256,0.6733
+NHANES diabetes,batch_size,16,0.7093
+NHANES diabetes,batch_size,32,0.7072
+NHANES diabetes,batch_size,64,0.7062
+NHANES diabetes,batch_size,128,0.7067
+NHANES diabetes,batch_size,256,0.7067

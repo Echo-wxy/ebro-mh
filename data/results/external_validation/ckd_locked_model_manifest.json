@@ -1,0 +1,1262 @@
+[
+  {
+    "seed": 101,
+    "method": "Logistic regression",
+    "threshold": 0.3518272249149989,
+    "features": [
+      "age",
+      "sex",
+      "diabetes_duration",
+      "bmi",
+      "sbp",
+      "dbp",
+      "hba1c",
+      "total_cholesterol",
+      "hdl",
+      "triglycerides",
+      "uric_acid"
+    ]
+  },
+  {
+    "seed": 101,
+    "method": "Random forest",
+    "threshold": 0.4594860845829509,
+    "features": [
+      "age",
+      "sex",
+      "diabetes_duration",
+      "bmi",
+      "sbp",
+      "dbp",
+      "hba1c",
+      "total_cholesterol",
+      "hdl",
+      "triglycerides",
+      "uric_acid"
+    ]
+  },
+  {
+    "seed": 101,
+    "method": "XGBoost",
+    "threshold": 0.3751112605776142,
+    "features": [
+      "age",
+      "sex",
+      "diabetes_duration",
+      "bmi",
+      "sbp",
+      "dbp",
+      "hba1c",
+      "total_cholesterol",
+      "hdl",
+      "triglycerides",
+      "uric_acid"
+    ]
+  },
+  {
+    "seed": 101,
+    "method": "RuleFit",
+    "threshold": 0.24730564718919812,
+    "features": [
+      "age",
+      "sex",
+      "diabetes_duration",
+      "bmi",
+      "sbp",
+      "dbp",
+      "hba1c",
+      "total_cholesterol",
+      "hdl",
+      "triglycerides",
+      "uric_acid"
+    ]
+  },
+  {
+    "seed": 101,
+    "method": "Bayesian Rule Lists",
+    "threshold": 0.34012148640396295,
+    "features": [
+      "age",
+      "sex",
+      "diabetes_duration",
+      "bmi",
+      "sbp",
+      "dbp",
+      "hba1c",
+      "total_cholesterol",
+      "hdl",
+      "triglycerides",
+      "uric_acid"
+    ]
+  },
+  {
+    "seed": 101,
+    "method": "EBM",
+    "threshold": 0.49190357863068906,
+    "features": [
+      "age",
+      "sex",
+      "diabetes_duration",
+      "bmi",
+      "sbp",
+      "dbp",
+      "hba1c",
+      "total_cholesterol",
+      "hdl",
+      "triglycerides",
+      "uric_acid"
+    ]
+  },
+  {
+    "seed": 101,
+    "method": "EBRO-MH",
+    "threshold": 0.2831907551031122,
+    "features": [
+      "age",
+      "sex",
+      "diabetes_duration",
+      "bmi",
+      "sbp",
+      "dbp",
+      "hba1c",
+      "total_cholesterol",
+      "hdl",
+      "triglycerides",
+      "uric_acid"
+    ]
+  },
+  {
+    "seed": 211,
+    "method": "Logistic regression",
+    "threshold": 0.42086735882284165,
+    "features": [
+      "age",
+      "sex",
+      "diabetes_duration",
+      "bmi",
+      "sbp",
+      "dbp",
+      "hba1c",
+      "total_cholesterol",
+      "hdl",
+      "triglycerides",
+      "uric_acid"
+    ]
+  },
+  {
+    "seed": 211,
+    "method": "Random forest",
+    "threshold": 0.44520939228351497,
+    "features": [
+      "age",
+      "sex",
+      "diabetes_duration",
+      "bmi",
+      "sbp",
+      "dbp",
+      "hba1c",
+      "total_cholesterol",
+      "hdl",
+      "triglycerides",
+      "uric_acid"
+    ]
+  },
+  {
+    "seed": 211,
+    "method": "XGBoost",
+    "threshold": 0.4189518466732424,
+    "features": [
+      "age",
+      "sex",
+      "diabetes_duration",
+      "bmi",
+      "sbp",
+      "dbp",
+      "hba1c",
+      "total_cholesterol",
+      "hdl",
+      "triglycerides",
+      "uric_acid"
+    ]
+  },
+  {
+    "seed": 211,
+    "method": "RuleFit",
+    "threshold": 0.2615218909005651,
+    "features": [
+      "age",
+      "sex",
+      "diabetes_duration",
+      "bmi",
+      "sbp",
+      "dbp",
+      "hba1c",
+      "total_cholesterol",
+      "hdl",
+      "triglycerides",
+      "uric_acid"
+    ]
+  },
+  {
+    "seed": 211,
+    "method": "Bayesian Rule Lists",
+    "threshold": 0.371463085131947,
+    "features": [
+      "age",
+      "sex",
+      "diabetes_duration",
+      "bmi",
+      "sbp",
+      "dbp",
+      "hba1c",
+      "total_cholesterol",
+      "hdl",
+      "triglycerides",
+      "uric_acid"
+    ]
+  },
+  {
+    "seed": 211,
+    "method": "EBM",
+    "threshold": 0.3055892803853963,
+    "features": [
+      "age",
+      "sex",
+      "diabetes_duration",
+      "bmi",
+      "sbp",
+      "dbp",
+      "hba1c",
+      "total_cholesterol",
+      "hdl",
+      "triglycerides",
+      "uric_acid"
+    ]
+  },
+  {
+    "seed": 211,
+    "method": "EBRO-MH",
+    "threshold": 0.36647433867569246,
+    "features": [
+      "age",
+      "sex",
+      "diabetes_duration",
+      "bmi",
+      "sbp",
+      "dbp",
+      "hba1c",
+      "total_cholesterol",
+      "hdl",
+      "triglycerides",
+      "uric_acid"
+    ]
+  },
+  {
+    "seed": 307,
+    "method": "Logistic regression",
+    "threshold": 0.31848698687781346,
+    "features": [
+      "age",
+      "sex",
+      "diabetes_duration",
+      "bmi",
+      "sbp",
+      "dbp",
+      "hba1c",
+      "total_cholesterol",
+      "hdl",
+      "triglycerides",
+      "uric_acid"
+    ]
+  },
+  {
+    "seed": 307,
+    "method": "Random forest",
+    "threshold": 0.36256185643580036,
+    "features": [
+      "age",
+      "sex",
+      "diabetes_duration",
+      "bmi",
+      "sbp",
+      "dbp",
+      "hba1c",
+      "total_cholesterol",
+      "hdl",
+      "triglycerides",
+      "uric_acid"
+    ]
+  },
+  {
+    "seed": 307,
+    "method": "XGBoost",
+    "threshold": 0.3357493049962992,
+    "features": [
+      "age",
+      "sex",
+      "diabetes_duration",
+      "bmi",
+      "sbp",
+      "dbp",
+      "hba1c",
+      "total_cholesterol",
+      "hdl",
+      "triglycerides",
+      "uric_acid"
+    ]
+  },
+  {
+    "seed": 307,
+    "method": "RuleFit",
+    "threshold": 0.4230084033604407,
+    "features": [
+      "age",
+      "sex",
+      "diabetes_duration",
+      "bmi",
+      "sbp",
+      "dbp",
+      "hba1c",
+      "total_cholesterol",
+      "hdl",
+      "triglycerides",
+      "uric_acid"
+    ]
+  },
+  {
+    "seed": 307,
+    "method": "Bayesian Rule Lists",
+    "threshold": 0.4357978727000978,
+    "features": [
+      "age",
+      "sex",
+      "diabetes_duration",
+      "bmi",
+      "sbp",
+      "dbp",
+      "hba1c",
+      "total_cholesterol",
+      "hdl",
+      "triglycerides",
+      "uric_acid"
+    ]
+  },
+  {
+    "seed": 307,
+    "method": "EBM",
+    "threshold": 0.485721622805373,
+    "features": [
+      "age",
+      "sex",
+      "diabetes_duration",
+      "bmi",
+      "sbp",
+      "dbp",
+      "hba1c",
+      "total_cholesterol",
+      "hdl",
+      "triglycerides",
+      "uric_acid"
+    ]
+  },
+  {
+    "seed": 307,
+    "method": "EBRO-MH",
+    "threshold": 0.3767188769255562,
+    "features": [
+      "age",
+      "sex",
+      "diabetes_duration",
+      "bmi",
+      "sbp",
+      "dbp",
+      "hba1c",
+      "total_cholesterol",
+      "hdl",
+      "triglycerides",
+      "uric_acid"
+    ]
+  },
+  {
+    "seed": 401,
+    "method": "Logistic regression",
+    "threshold": 0.3329538277953281,
+    "features": [
+      "age",
+      "sex",
+      "diabetes_duration",
+      "bmi",
+      "sbp",
+      "dbp",
+      "hba1c",
+      "total_cholesterol",
+      "hdl",
+      "triglycerides",
+      "uric_acid"
+    ]
+  },
+  {
+    "seed": 401,
+    "method": "Random forest",
+    "threshold": 0.41063471784950545,
+    "features": [
+      "age",
+      "sex",
+      "diabetes_duration",
+      "bmi",
+      "sbp",
+      "dbp",
+      "hba1c",
+      "total_cholesterol",
+      "hdl",
+      "triglycerides",
+      "uric_acid"
+    ]
+  },
+  {
+    "seed": 401,
+    "method": "XGBoost",
+    "threshold": 0.3379647535257224,
+    "features": [
+      "age",
+      "sex",
+      "diabetes_duration",
+      "bmi",
+      "sbp",
+      "dbp",
+      "hba1c",
+      "total_cholesterol",
+      "hdl",
+      "triglycerides",
+      "uric_acid"
+    ]
+  },
+  {
+    "seed": 401,
+    "method": "RuleFit",
+    "threshold": 0.3243520262091872,
+    "features": [
+      "age",
+      "sex",
+      "diabetes_duration",
+      "bmi",
+      "sbp",
+      "dbp",
+      "hba1c",
+      "total_cholesterol",
+      "hdl",
+      "triglycerides",
+      "uric_acid"
+    ]
+  },
+  {
+    "seed": 401,
+    "method": "Bayesian Rule Lists",
+    "threshold": 0.40118904205195494,
+    "features": [
+      "age",
+      "sex",
+      "diabetes_duration",
+      "bmi",
+      "sbp",
+      "dbp",
+      "hba1c",
+      "total_cholesterol",
+      "hdl",
+      "triglycerides",
+      "uric_acid"
+    ]
+  },
+  {
+    "seed": 401,
+    "method": "EBM",
+    "threshold": 0.3498136976936609,
+    "features": [
+      "age",
+      "sex",
+      "diabetes_duration",
+      "bmi",
+      "sbp",
+      "dbp",
+      "hba1c",
+      "total_cholesterol",
+      "hdl",
+      "triglycerides",
+      "uric_acid"
+    ]
+  },
+  {
+    "seed": 401,
+    "method": "EBRO-MH",
+    "threshold": 0.3273947428823699,
+    "features": [
+      "age",
+      "sex",
+      "diabetes_duration",
+      "bmi",
+      "sbp",
+      "dbp",
+      "hba1c",
+      "total_cholesterol",
+      "hdl",
+      "triglycerides",
+      "uric_acid"
+    ]
+  },
+  {
+    "seed": 503,
+    "method": "Logistic regression",
+    "threshold": 0.4172362129313259,
+    "features": [
+      "age",
+      "sex",
+      "diabetes_duration",
+      "bmi",
+      "sbp",
+      "dbp",
+      "hba1c",
+      "total_cholesterol",
+      "hdl",
+      "triglycerides",
+      "uric_acid"
+    ]
+  },
+  {
+    "seed": 503,
+    "method": "Random forest",
+    "threshold": 0.41426248649793174,
+    "features": [
+      "age",
+      "sex",
+      "diabetes_duration",
+      "bmi",
+      "sbp",
+      "dbp",
+      "hba1c",
+      "total_cholesterol",
+      "hdl",
+      "triglycerides",
+      "uric_acid"
+    ]
+  },
+  {
+    "seed": 503,
+    "method": "XGBoost",
+    "threshold": 0.36283466061820907,
+    "features": [
+      "age",
+      "sex",
+      "diabetes_duration",
+      "bmi",
+      "sbp",
+      "dbp",
+      "hba1c",
+      "total_cholesterol",
+      "hdl",
+      "triglycerides",
+      "uric_acid"
+    ]
+  },
+  {
+    "seed": 503,
+    "method": "RuleFit",
+    "threshold": 0.41169658495688033,
+    "features": [
+      "age",
+      "sex",
+      "diabetes_duration",
+      "bmi",
+      "sbp",
+      "dbp",
+      "hba1c",
+      "total_cholesterol",
+      "hdl",
+      "triglycerides",
+      "uric_acid"
+    ]
+  },
+  {
+    "seed": 503,
+    "method": "Bayesian Rule Lists",
+    "threshold": 0.3894407286915814,
+    "features": [
+      "age",
+      "sex",
+      "diabetes_duration",
+      "bmi",
+      "sbp",
+      "dbp",
+      "hba1c",
+      "total_cholesterol",
+      "hdl",
+      "triglycerides",
+      "uric_acid"
+    ]
+  },
+  {
+    "seed": 503,
+    "method": "EBM",
+    "threshold": 0.4282099757675062,
+    "features": [
+      "age",
+      "sex",
+      "diabetes_duration",
+      "bmi",
+      "sbp",
+      "dbp",
+      "hba1c",
+      "total_cholesterol",
+      "hdl",
+      "triglycerides",
+      "uric_acid"
+    ]
+  },
+  {
+    "seed": 503,
+    "method": "EBRO-MH",
+    "threshold": 0.46051472122797316,
+    "features": [
+      "age",
+      "sex",
+      "diabetes_duration",
+      "bmi",
+      "sbp",
+      "dbp",
+      "hba1c",
+      "total_cholesterol",
+      "hdl",
+      "triglycerides",
+      "uric_acid"
+    ]
+  },
+  {
+    "seed": 601,
+    "method": "Logistic regression",
+    "threshold": 0.4274832662152745,
+    "features": [
+      "age",
+      "sex",
+      "diabetes_duration",
+      "bmi",
+      "sbp",
+      "dbp",
+      "hba1c",
+      "total_cholesterol",
+      "hdl",
+      "triglycerides",
+      "uric_acid"
+    ]
+  },
+  {
+    "seed": 601,
+    "method": "Random forest",
+    "threshold": 0.39866231498649235,
+    "features": [
+      "age",
+      "sex",
+      "diabetes_duration",
+      "bmi",
+      "sbp",
+      "dbp",
+      "hba1c",
+      "total_cholesterol",
+      "hdl",
+      "triglycerides",
+      "uric_acid"
+    ]
+  },
+  {
+    "seed": 601,
+    "method": "XGBoost",
+    "threshold": 0.4256450850325512,
+    "features": [
+      "age",
+      "sex",
+      "diabetes_duration",
+      "bmi",
+      "sbp",
+      "dbp",
+      "hba1c",
+      "total_cholesterol",
+      "hdl",
+      "triglycerides",
+      "uric_acid"
+    ]
+  },
+  {
+    "seed": 601,
+    "method": "RuleFit",
+    "threshold": 0.3249625442407494,
+    "features": [
+      "age",
+      "sex",
+      "diabetes_duration",
+      "bmi",
+      "sbp",
+      "dbp",
+      "hba1c",
+      "total_cholesterol",
+      "hdl",
+      "triglycerides",
+      "uric_acid"
+    ]
+  },
+  {
+    "seed": 601,
+    "method": "Bayesian Rule Lists",
+    "threshold": 0.44808203825592297,
+    "features": [
+      "age",
+      "sex",
+      "diabetes_duration",
+      "bmi",
+      "sbp",
+      "dbp",
+      "hba1c",
+      "total_cholesterol",
+      "hdl",
+      "triglycerides",
+      "uric_acid"
+    ]
+  },
+  {
+    "seed": 601,
+    "method": "EBM",
+    "threshold": 0.4108793402244896,
+    "features": [
+      "age",
+      "sex",
+      "diabetes_duration",
+      "bmi",
+      "sbp",
+      "dbp",
+      "hba1c",
+      "total_cholesterol",
+      "hdl",
+      "triglycerides",
+      "uric_acid"
+    ]
+  },
+  {
+    "seed": 601,
+    "method": "EBRO-MH",
+    "threshold": 0.37519000177074086,
+    "features": [
+      "age",
+      "sex",
+      "diabetes_duration",
+      "bmi",
+      "sbp",
+      "dbp",
+      "hba1c",
+      "total_cholesterol",
+      "hdl",
+      "triglycerides",
+      "uric_acid"
+    ]
+  },
+  {
+    "seed": 701,
+    "method": "Logistic regression",
+    "threshold": 0.4543264655404802,
+    "features": [
+      "age",
+      "sex",
+      "diabetes_duration",
+      "bmi",
+      "sbp",
+      "dbp",
+      "hba1c",
+      "total_cholesterol",
+      "hdl",
+      "triglycerides",
+      "uric_acid"
+    ]
+  },
+  {
+    "seed": 701,
+    "method": "Random forest",
+    "threshold": 0.456413385934725,
+    "features": [
+      "age",
+      "sex",
+      "diabetes_duration",
+      "bmi",
+      "sbp",
+      "dbp",
+      "hba1c",
+      "total_cholesterol",
+      "hdl",
+      "triglycerides",
+      "uric_acid"
+    ]
+  },
+  {
+    "seed": 701,
+    "method": "XGBoost",
+    "threshold": 0.42092027826080036,
+    "features": [
+      "age",
+      "sex",
+      "diabetes_duration",
+      "bmi",
+      "sbp",
+      "dbp",
+      "hba1c",
+      "total_cholesterol",
+      "hdl",
+      "triglycerides",
+      "uric_acid"
+    ]
+  },
+  {
+    "seed": 701,
+    "method": "RuleFit",
+    "threshold": 0.40790995768850585,
+    "features": [
+      "age",
+      "sex",
+      "diabetes_duration",
+      "bmi",
+      "sbp",
+      "dbp",
+      "hba1c",
+      "total_cholesterol",
+      "hdl",
+      "triglycerides",
+      "uric_acid"
+    ]
+  },
+  {
+    "seed": 701,
+    "method": "Bayesian Rule Lists",
+    "threshold": 0.4431523291019945,
+    "features": [
+      "age",
+      "sex",
+      "diabetes_duration",
+      "bmi",
+      "sbp",
+      "dbp",
+      "hba1c",
+      "total_cholesterol",
+      "hdl",
+      "triglycerides",
+      "uric_acid"
+    ]
+  },
+  {
+    "seed": 701,
+    "method": "EBM",
+    "threshold": 0.4318142073462787,
+    "features": [
+      "age",
+      "sex",
+      "diabetes_duration",
+      "bmi",
+      "sbp",
+      "dbp",
+      "hba1c",
+      "total_cholesterol",
+      "hdl",
+      "triglycerides",
+      "uric_acid"
+    ]
+  },
+  {
+    "seed": 701,
+    "method": "EBRO-MH",
+    "threshold": 0.3810035075518978,
+    "features": [
+      "age",
+      "sex",
+      "diabetes_duration",
+      "bmi",
+      "sbp",
+      "dbp",
+      "hba1c",
+      "total_cholesterol",
+      "hdl",
+      "triglycerides",
+      "uric_acid"
+    ]
+  },
+  {
+    "seed": 809,
+    "method": "Logistic regression",
+    "threshold": 0.436500010888173,
+    "features": [
+      "age",
+      "sex",
+      "diabetes_duration",
+      "bmi",
+      "sbp",
+      "dbp",
+      "hba1c",
+      "total_cholesterol",
+      "hdl",
+      "triglycerides",
+      "uric_acid"
+    ]
+  },
+  {
+    "seed": 809,
+    "method": "Random forest",
+    "threshold": 0.35648244272366353,
+    "features": [
+      "age",
+      "sex",
+      "diabetes_duration",
+      "bmi",
+      "sbp",
+      "dbp",
+      "hba1c",
+      "total_cholesterol",
+      "hdl",
+      "triglycerides",
+      "uric_acid"
+    ]
+  },
+  {
+    "seed": 809,
+    "method": "XGBoost",
+    "threshold": 0.35916463678247135,
+    "features": [
+      "age",
+      "sex",
+      "diabetes_duration",
+      "bmi",
+      "sbp",
+      "dbp",
+      "hba1c",
+      "total_cholesterol",
+      "hdl",
+      "triglycerides",
+      "uric_acid"
+    ]
+  },
+  {
+    "seed": 809,
+    "method": "RuleFit",
+    "threshold": 0.33509806048484286,
+    "features": [
+      "age",
+      "sex",
+      "diabetes_duration",
+      "bmi",
+      "sbp",
+      "dbp",
+      "hba1c",
+      "total_cholesterol",
+      "hdl",
+      "triglycerides",
+      "uric_acid"
+    ]
+  },
+  {
+    "seed": 809,
+    "method": "Bayesian Rule Lists",
+    "threshold": 0.3635698975812337,
+    "features": [
+      "age",
+      "sex",
+      "diabetes_duration",
+      "bmi",
+      "sbp",
+      "dbp",
+      "hba1c",
+      "total_cholesterol",
+      "hdl",
+      "triglycerides",
+      "uric_acid"
+    ]
+  },
+  {
+    "seed": 809,
+    "method": "EBM",
+    "threshold": 0.42817383256068625,
+    "features": [
+      "age",
+      "sex",
+      "diabetes_duration",
+      "bmi",
+      "sbp",
+      "dbp",
+      "hba1c",
+      "total_cholesterol",
+      "hdl",
+      "triglycerides",
+      "uric_acid"
+    ]
+  },
+  {
+    "seed": 809,
+    "method": "EBRO-MH",
+    "threshold": 0.35216491158752145,
+    "features": [
+      "age",
+      "sex",
+      "diabetes_duration",
+      "bmi",
+      "sbp",
+      "dbp",
+      "hba1c",
+      "total_cholesterol",
+      "hdl",
+      "triglycerides",
+      "uric_acid"
+    ]
+  },
+  {
+    "seed": 907,
+    "method": "Logistic regression",
+    "threshold": 0.24509704298791335,
+    "features": [
+      "age",
+      "sex",
+      "diabetes_duration",
+      "bmi",
+      "sbp",
+      "dbp",
+      "hba1c",
+      "total_cholesterol",
+      "hdl",
+      "triglycerides",
+      "uric_acid"
+    ]
+  },
+  {
+    "seed": 907,
+    "method": "Random forest",
+    "threshold": 0.3694083074706932,
+    "features": [
+      "age",
+      "sex",
+      "diabetes_duration",
+      "bmi",
+      "sbp",
+      "dbp",
+      "hba1c",
+      "total_cholesterol",
+      "hdl",
+      "triglycerides",
+      "uric_acid"
+    ]
+  },
+  {
+    "seed": 907,
+    "method": "XGBoost",
+    "threshold": 0.34792680051306435,
+    "features": [
+      "age",
+      "sex",
+      "diabetes_duration",
+      "bmi",
+      "sbp",
+      "dbp",
+      "hba1c",
+      "total_cholesterol",
+      "hdl",
+      "triglycerides",
+      "uric_acid"
+    ]
+  },
+  {
+    "seed": 907,
+    "method": "RuleFit",
+    "threshold": 0.2721204900574382,
+    "features": [
+      "age",
+      "sex",
+      "diabetes_duration",
+      "bmi",
+      "sbp",
+      "dbp",
+      "hba1c",
+      "total_cholesterol",
+      "hdl",
+      "triglycerides",
+      "uric_acid"
+    ]
+  },
+  {
+    "seed": 907,
+    "method": "Bayesian Rule Lists",
+    "threshold": 0.44511840216118176,
+    "features": [
+      "age",
+      "sex",
+      "diabetes_duration",
+      "bmi",
+      "sbp",
+      "dbp",
+      "hba1c",
+      "total_cholesterol",
+      "hdl",
+      "triglycerides",
+      "uric_acid"
+    ]
+  },
+  {
+    "seed": 907,
+    "method": "EBM",
+    "threshold": 0.357796243420981,
+    "features": [
+      "age",
+      "sex",
+      "diabetes_duration",
+      "bmi",
+      "sbp",
+      "dbp",
+      "hba1c",
+      "total_cholesterol",
+      "hdl",
+      "triglycerides",
+      "uric_acid"
+    ]
+  },
+  {
+    "seed": 907,
+    "method": "EBRO-MH",
+    "threshold": 0.41160985759348667,
+    "features": [
+      "age",
+      "sex",
+      "diabetes_duration",
+      "bmi",
+      "sbp",
+      "dbp",
+      "hba1c",
+      "total_cholesterol",
+      "hdl",
+      "triglycerides",
+      "uric_acid"
+    ]
+  },
+  {
+    "seed": 1009,
+    "method": "Logistic regression",
+    "threshold": 0.3582833915011204,
+    "features": [
+      "age",
+      "sex",
+      "diabetes_duration",
+      "bmi",
+      "sbp",
+      "dbp",
+      "hba1c",
+      "total_cholesterol",
+      "hdl",
+      "triglycerides",
+      "uric_acid"
+    ]
+  },
+  {
+    "seed": 1009,
+    "method": "Random forest",
+    "threshold": 0.41651756493880887,
+    "features": [
+      "age",
+      "sex",
+      "diabetes_duration",
+      "bmi",
+      "sbp",
+      "dbp",
+      "hba1c",
+      "total_cholesterol",
+      "hdl",
+      "triglycerides",
+      "uric_acid"
+    ]
+  },
+  {
+    "seed": 1009,
+    "method": "XGBoost",
+    "threshold": 0.40253518894787454,
+    "features": [
+      "age",
+      "sex",
+      "diabetes_duration",
+      "bmi",
+      "sbp",
+      "dbp",
+      "hba1c",
+      "total_cholesterol",
+      "hdl",
+      "triglycerides",
+      "uric_acid"
+    ]
+  },
+  {
+    "seed": 1009,
+    "method": "RuleFit",
+    "threshold": 0.2783155291276585,
+    "features": [
+      "age",
+      "sex",
+      "diabetes_duration",
+      "bmi",
+      "sbp",
+      "dbp",
+      "hba1c",
+      "total_cholesterol",
+      "hdl",
+      "triglycerides",
+      "uric_acid"
+    ]
+  },
+  {
+    "seed": 1009,
+    "method": "Bayesian Rule Lists",
+    "threshold": 0.47006297113125556,
+    "features": [
+      "age",
+      "sex",
+      "diabetes_duration",
+      "bmi",
+      "sbp",
+      "dbp",
+      "hba1c",
+      "total_cholesterol",
+      "hdl",
+      "triglycerides",
+      "uric_acid"
+    ]
+  },
+  {
+    "seed": 1009,
+    "method": "EBM",
+    "threshold": 0.4039119104664363,
+    "features": [
+      "age",
+      "sex",
+      "diabetes_duration",
+      "bmi",
+      "sbp",
+      "dbp",
+      "hba1c",
+      "total_cholesterol",
+      "hdl",
+      "triglycerides",
+      "uric_acid"
+    ]
+  },
+  {
+    "seed": 1009,
+    "method": "EBRO-MH",
+    "threshold": 0.4025843483115309,
+    "features": [
+      "age",
+      "sex",
+      "diabetes_duration",
+      "bmi",
+      "sbp",
+      "dbp",
+      "hba1c",
+      "total_cholesterol",
+      "hdl",
+      "triglycerides",
+      "uric_acid"
+    ]
+  }
+]

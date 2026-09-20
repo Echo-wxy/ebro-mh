@@ -1,0 +1,67 @@
+{
+  "command": "run-sensitivity",
+  "data_path": "/workspace/scratch/dad78fe426d9/ebro_mh_reimplementation/data/processed/pidd.csv",
+  "data_sha256": "68ad88660985baa2c1670a98574db93c70521d79cb2a6842ea4cea05b0bb990a",
+  "config": {
+    "random_seed": 42,
+    "repeat_seeds": [
+      42,
+      123,
+      2024,
+      3407,
+      7777,
+      104729,
+      130363,
+      155921,
+      196613,
+      262147
+    ],
+    "data": {
+      "age_min": 20,
+      "age_max": 79,
+      "main_cycles": [
+        "2015-2016",
+        "2017-2020"
+      ],
+      "temporal_train_cycle": "2015-2016",
+      "temporal_test_cycle": "2017-2018"
+    },
+    "model": {
+      "n_particles": 20,
+      "batch_size": 64,
+      "beta": 1.0,
+      "lambda_complexity": 0.5,
+      "lambda_infeasible": 1.0,
+      "lambda_evidence": 0.8,
+      "max_iterations": 15,
+      "convergence_tolerance": 0.001,
+      "convergence_patience": 3,
+      "max_conditions": 3,
+      "min_rule_support": 0.02,
+      "calibration": "platt",
+      "prediction_mode": "firing_mass",
+      "initializer_mode": "hybrid"
+    },
+    "evaluation": {
+      "outer_folds": 5,
+      "repeats": 10,
+      "inner_validation_fraction": 0.15,
+      "inner_calibration_fraction": 0.15,
+      "bootstrap_resamples": 2000,
+      "ece_bins": 10
+    }
+  },
+  "python": "3.12.13",
+  "platform": "Linux-6.18.35-x86_64-with-glibc2.39",
+  "numpy": "2.3.5",
+  "pandas": "3.0.5",
+  "scikit_learn": "1.8.0",
+  "optional_packages": {
+    "xgboost": "3.4.1",
+    "interpret": "0.7.8",
+    "imodels": "3.0.0"
+  },
+  "created_utc": "2026-08-30T15:03:32.070978+00:00",
+  "dataset": "pidd",
+  "quick": false
+}
