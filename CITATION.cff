@@ -1,9 +1,33 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it using the metadata from this file."
-title: "ebro-mh"
+title: "ebro-mh: a sequential Monte Carlo rule ensemble for binary clinical risk prediction"
 type: software
 authors:
-  - name: "The ebro-mh Authors"
-version: 0.1.0
-date-released: 2026-09-17
+  - family-names: Wang
+    given-names: Jian
+    orcid: "https://orcid.org/0009-0007-7883-7512"
+  - family-names: Cao
+    given-names: Fuyuan
+    orcid: "https://orcid.org/0009-0002-9749-8396"
+  - family-names: Hu
+    given-names: Qing
+    orcid: "https://orcid.org/0009-0009-5136-5396"
+  - family-names: Li
+    given-names: Jikai
+    orcid: "https://orcid.org/0009-0001-0805-5132"
+  - family-names: Zhao
+    given-names: Yuhan
+    orcid: "https://orcid.org/0009-0002-2120-9527"
+  - family-names: Zhang
+    given-names: Xitong
+    orcid: "https://orcid.org/0009-0009-8415-0439"
+  - family-names: Wu
+    given-names: Lei
+    orcid: "https://orcid.org/0000-0002-5218-1988"
+  - family-names: Li
+    given-names: Shuang
+    orcid: "https://orcid.org/0009-0002-5752-7308"
+version: 1.0.0
+date-released: 2026-09-20
 license: MIT
+repository-code: "https://github.com/Echo-wxy/ebro-mh"

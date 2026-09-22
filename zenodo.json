@@ -1,0 +1,28 @@
+{
+  "title": "ebro-mh: a sequential Monte Carlo rule ensemble for binary clinical risk prediction",
+  "description": "<p>Implementation of a sequential Monte Carlo rule ensemble for binary clinical risk prediction, together with the comparator models, the calibration and evaluation code, the cohort construction code for three public data sources, the code that runs the geographic external validation, the figure scripts, a synthetic cohort generator, and unit tests.</p><p>The repository also archives the recorded outputs behind every reported number: per-participant predictions for each method, seed and fold; the particle traces; the aggregated metrics, paired comparisons, calibration bins and subgroup metrics; and the execution manifests. No restricted data file is redistributed. The synthetic generator reproduces the input format so that the demo and the tests run without any download.</p>",
+  "upload_type": "software",
+  "license": "mit",
+  "access_right": "open",
+  "language": "eng",
+  "keywords": [
+    "clinical prediction model",
+    "rule-based model",
+    "sequential Monte Carlo",
+    "interpretable machine learning",
+    "calibration",
+    "external validation",
+    "type 2 diabetes",
+    "chronic kidney disease"
+  ],
+  "creators": [
+    {"name": "Wang, Jian", "affiliation": "Laboratory Animal Center, North China University of Science and Technology, Tangshan, Hebei, China", "orcid": "0009-0007-7883-7512"},
+    {"name": "Cao, Fuyuan", "affiliation": "Laboratory Animal Center and School of Public Health, North China University of Science and Technology, Tangshan, Hebei, China", "orcid": "0009-0002-9749-8396"},
+    {"name": "Hu, Qing", "affiliation": "School of Public Health, North China University of Science and Technology, Tangshan, Hebei, China", "orcid": "0009-0009-5136-5396"},
+    {"name": "Li, Jikai", "affiliation": "School of Public Health, North China University of Science and Technology, Tangshan, Hebei, China", "orcid": "0009-0001-0805-5132"},
+    {"name": "Zhao, Yuhan", "affiliation": "School of Public Health, North China University of Science and Technology, Tangshan, Hebei, China", "orcid": "0009-0002-2120-9527"},
+    {"name": "Zhang, Xitong", "affiliation": "Hebei Key Laboratory of Occupational Health and Safety for Coal Industry, Tangshan Key Laboratory of Clinical Epidemiology, School of Public Health, North China University of Science and Technology, Tangshan, Hebei, China", "orcid": "0009-0009-8415-0439"},
+    {"name": "Wu, Lei", "affiliation": "Hebei Key Laboratory of Mental Health and Brain Science, School of Psychology and Mental Health, North China University of Science and Technology, Tangshan, Hebei, China", "orcid": "0000-0002-5218-1988"},
+    {"name": "Li, Shuang", "affiliation": "School of Public Health, North China University of Science and Technology, Tangshan, Hebei, China", "orcid": "0009-0002-5752-7308"}
+  ]
+}
