@@ -57,11 +57,19 @@ Full external-validation run, which requires the survey files described above:
 python scripts/run_external_validation.py --config configs/default.yaml
 ```
 
-Figures:
+Figures and derived tables, all computed from the recorded outputs in `data/results/`:
 
 ```bash
-python scripts/plot_calibration.py
-python scripts/plot_sensitivity.py
+python scripts/plot_calibration.py     # calibration figure
+python scripts/plot_sensitivity.py     # fixed-split sensitivity figure
+python scripts/decision_curves.py      # decision curves for all 5 evaluation settings
+python scripts/external_tables.py      # external-validation performance intervals, baseline table, subgroup AUC
+```
+
+Participant flow for the United States cohorts, which requires the survey files:
+
+```bash
+python scripts/cohort_flow.py --raw data/raw/nhanes
 ```
 
 `configs/default.yaml` holds the fixed configuration used for all reported runs; `configs/quick.yaml` reduces the comparator settings so the demo and the tests finish quickly. Neither performs a data-dependent hyperparameter search.
@@ -76,4 +84,6 @@ MIT, see `LICENSE`.
 
 ## Citation
 
-See `CITATION.cff`.
+Wang J, Cao F, Hu Q, Li J, Zhao Y, Zhang X, Wu L, Li S. ebro-mh: a sequential Monte Carlo rule ensemble for binary clinical risk prediction. Zenodo. doi:10.5281/zenodo.22854035
+
+The DOI above resolves to the latest version. Machine-readable metadata are in `CITATION.cff`.

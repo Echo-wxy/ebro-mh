@@ -1,0 +1,13 @@
+method,subgroup,n,events,auc,ci_low,ci_high
+EBRO-MH,Female,520,131,0.6487,0.5915,0.7044
+EBRO-MH,Male,558,171,0.6705,0.6186,0.7194
+EBRO-MH,20-64 years,502,120,0.6316,0.5695,0.6923
+EBRO-MH,65 years or older,576,182,0.6697,0.6211,0.7162
+EBM,Female,520,131,0.7175,0.6693,0.7672
+EBM,Male,558,171,0.7177,0.6699,0.7622
+EBM,20-64 years,502,120,0.746,0.6927,0.7945
+EBM,65 years or older,576,182,0.6968,0.6485,0.7447
+Logistic regression,Female,520,131,0.7394,0.6856,0.7923
+Logistic regression,Male,558,171,0.7265,0.6802,0.7728
+Logistic regression,20-64 years,502,120,0.7497,0.6947,0.7992
+Logistic regression,65 years or older,576,182,0.7167,0.6708,0.7613

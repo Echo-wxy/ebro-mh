@@ -1,0 +1,6 @@
+analysis,comparator,shortfall_at_0_20,max_excess_of_ebro,lowest_threshold_always_below
+PIDD cross-validation,EBM,0.0231,0.0006,0.039999999999999994
+NHANES diabetes cross-validation,XGBoost,0.0243,0.0,0.02
+NHANES CKD cross-validation,EBM,0.0184,0.001,0.12999999999999998
+Temporal validation,EBM,0.0213,0.0,0.02
+Geographic external validation,EBM,0.0285,0.0,0.11999999999999998

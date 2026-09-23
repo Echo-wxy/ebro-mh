@@ -25,5 +25,7 @@ Chronic kidney disease task, eleven predictors: age, sex, diabetes duration, bod
 - `data/results/main_analyses/` — repeated cross-validation on the three tasks, temporal validation, component and initialization analyses, effective sample size threshold analysis, fixed-split sensitivity analyses, and the particle traces. `summary/` holds the aggregated metrics, paired comparisons, calibration bins, and subgroup metrics.
 - `data/results/external_validation/` — the geographic external validation: per-participant predictions for every seed and method, per-seed metrics, calibration bins, the paired bootstrap output, the cohort tables, and the run manifests.
 - `calibration_bins.csv` and `sensitivity_auc.csv` in `data/results/` are the two tables the figure scripts read.
+- `decision_curves.csv` and `decision_curves_summary.csv` are written by `scripts/decision_curves.py` from the recorded predictions.
+- `external_performance_with_ci.csv`, `external_baseline_characteristics.csv`, and `external_subgroup_auc.csv` are written by `scripts/external_tables.py`.
 
 Participant identifiers are the survey sequence numbers of the public use files. No name, address, date of birth, or any other direct identifier is present, and nothing here can be linked to a person beyond what the public files already allow.
